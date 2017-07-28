@@ -1,4 +1,4 @@
-# Selenium
+# Selenium - Web Browser Automation
  Aplicação que automotiza o preenchimento automático de um formulário e seus eventos utilizando as bibliotecas HtmlUnit ou WebDriver do pacote Selenium - Web Browser Automation
  
 ## Ambiente de Desenvolvimento
